@@ -1,4 +1,4 @@
-1.Przygotuj plik o rozszerzeniu .json o nastepujacej strukturze:
+1. Przygotuj plik o rozszerzeniu .json o nastepujacej strukturze:
 Tablica obiektow typu Game.
 
 Game posiada nastepujace pola:
