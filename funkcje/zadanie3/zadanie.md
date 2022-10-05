@@ -1,0 +1,3 @@
+1. Do pliku index.html w dowolny sposob zamiesc plik .js.
+2. Zadeklaruj funkcję o nazwie "kata". Wewnątrz tej funkcji przygotuj drugą funkcję o nazwie "ninja". Wewnątrz funkcji "kata" wywołaj funkcję ninja, która wywoła w konsoli napis "Jestem ninja". Funkcja "kata" nie musi nic więcej wykonywać.
+3. Spróbuj wywołać teraz funkcję "ninja" poza funkcją "kata". Czy jest to możliwe? Dlaczego/ Dlaczego nie? Odpowiedz w komentarzu.

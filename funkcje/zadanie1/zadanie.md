@@ -4,6 +4,6 @@
    2. Druga z nich odejmuje dwie liczby do siebie i zwraca wynik
    3. Trzecia z nich mnozy dwie liczby do siebie i zwraca wynik
 3. Nastepnie za pomoca instrukcji warunkowej SWITCH w zaleznosci od jakiejs zmiennej:
-   1. jezeli zmienna === "dodaj" to wywolaj funkcje (1) z dowolnymi parametrami
-   2. jezeli zmienna === "odejmij" to wywolaj funkcje (2) z dowolnymi parametrami
-   3. jezeli zmienna === "pomnoz" to wywolaj funkcje (3) z dowolnymi parametrami
+   1. jezeli zmienna === "dodaj" to wywolaj funkcje (2.1) z dowolnymi parametrami
+   2. jezeli zmienna === "odejmij" to wywolaj funkcje (2.2) z dowolnymi parametrami
+   3. jezeli zmienna === "pomnoz" to wywolaj funkcje (2.3) z dowolnymi parametrami
