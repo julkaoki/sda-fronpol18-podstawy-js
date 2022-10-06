@@ -56,6 +56,7 @@ var toUpperWithCallback = function (text, callback) {
     var result = text.toUpperCase();
 
     if (callback) {
+        // w naszym przypadku zapis ponizej odpowiada writeToConsole(result);
         return callback(result);
     }
 
@@ -68,7 +69,7 @@ var writeToConsole = function (text) {
 
 1. Wywolanie funkcji toUpperWithCallback z arugmentami:
     'Ala ma kota' jako tekst,
-    writeToConsole jako funkcja.
+    writeToConsole jako funkcja (wskaznik na funkcje).
     toUpperWithCallback('Ala ma kota', writeToConsole);
 2. W ciele funkcji toUpperWithCallback najpierw "przygotowywujemy" rozwiązanie tzn. zamiana tekstu na ciąg znaków zapisany duzymi literami.
 3. W linicje 58 następuje sprawdzenie, czy callback (funkcja) została przekazana jako argument.
@@ -82,9 +83,14 @@ var writeToConsole = function (text) {
 
 // to jest bledne
 // reverseTextWithCallback('Ala ma kota', writeToConsole());
+// => po obliczeniu wyniku funkcji writeToConsole()
+// reverseTextWithCallback('Ala ma kota', undefined);
 // dlaczego?
 // poniewaz nie przekazuje funkcji tylko jej WYNIK!!
 reverseTextWithCallback('Ala ma kota', writeToConsole);
+/*
+    reverseTextWithCallback('Ala ma kota', function(text) { console.log(text)} );
+*/
 
 
 // Bonus

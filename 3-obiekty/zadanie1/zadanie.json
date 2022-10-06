@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Game 1",
+        "id": "ABCD0001",
+        "prefferedAge": 18,
+        "isRented": false,
+        "numberOfCopies": 5,
+        "tags": ["rpg", "survival"]
+    },
+    {
+        "title": "Game 2",
+        "id": "ABCD0002",
+        "prefferedAge": 14,
+        "isRented": true,
+        "numberOfCopies": 1,
+        "tags": ["shooter"]
+    },
+    {
+        "title": "Game 3",
+        "id": "ABCD0003",
+        "prefferedAge": 8,
+        "isRented": false,
+        "numberOfCopies": 1,
+        "tags": ["sims", "building", "family"]
+    },
+    {
+        "title": "Game 4",
+        "id": "ABCD0004",
+        "prefferedAge": 18,
+        "isRented": false,
+        "numberOfCopies": 1,
+        "tags": ["shooter", "horror", "resident evil"]
+    },
+    {
+        "title": "Game 5",
+        "id": "ABCD0005",
+        "prefferedAge": 16,
+        "isRented": false,
+        "numberOfCopies": 100,
+        "tags": ["MMORPG"],
+        "test": {
+            "moreArray": [ { "id": 2}, { "id": 1} ]
+        }
+    }
+]
