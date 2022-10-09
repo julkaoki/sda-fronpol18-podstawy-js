@@ -8,3 +8,9 @@ Proponowana kolejnosc wykonywania zadan:
 4. Zmienne
 5. Hoisting
 6. Rekurencja
+7. ECMA6
+8. Struktury
+9. OOP
+10. Localstorage
+11. Cookies
+12. Promise
