@@ -1,0 +1,1 @@
+1. Przy pomocy narzedzi developerskich znajdz i napraw blad w pliku script.js
