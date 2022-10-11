@@ -4,3 +4,4 @@
 4. Podane parametry powinny by zapisane do pola klasy.
 5. Dodaj metode, ktora zwroci imie i nazwisko dla czlowieka.
 6. Dodaj metode, ktora sprawdzi czy czlowiek jest pelnoletni.
+7. Stworz kilka instancji klasy Czlowiek i wywolaj metody z (5) oraz (6).

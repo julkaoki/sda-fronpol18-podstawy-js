@@ -7,3 +7,4 @@
    2. wiek: number;
    3. adres: { ulica: string, miasto: string }
 6. Za pomocą destrukturyzacji przypisz imie, wiek oraz adres do osobnych zmiennych.
+7. Za pomoca destrukturyzacji przypisz miasto do osobnej zmiennej.

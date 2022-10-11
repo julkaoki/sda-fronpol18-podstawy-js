@@ -1,5 +1,5 @@
 1. Do pliku index.html w dowolny sposob zamiesc plik .js.
-2. Przygotuj funkcje strzalkowa, ktora zwroci iloraz dwoch liczb.
+2. Przygotuj funkcje strzalkowa, ktora zwroci iloraz dwoch liczb. Liczby są pobierane z parametru funkcji.
 3. Przygotuj funkcje strzalkowa, ktora przyjmuje dwa parametry: wiek oraz minimalny wiek. Domyslna wartoscia parametru minimalny wiek jest liczba 18. Funkcja powinna zwracac, czy dany wiek jest mniejszy niz minimalny wiek.
 4. Zadeklaruj tablice napisow (minimum 15 napisow). Nastepnie przygotuj funkcje, ktora wyszuka nam dany ciag znakow w tej tablicy. Np. imiona.
 5. Przygotuj 3 zmienne: Potrawa, Ilosc kcal, waga. Zainicjuj zmienne jakimis wartosciami.
