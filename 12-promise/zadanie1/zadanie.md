@@ -1,4 +1,4 @@
 1. Przygotuj plik o rozszerzeniu .js.
 2. Przygotuj nowy obiekt typu Promise, który zaakceptuje funkcję, która po 10 sekundach zwróci dowolny ciąg znaków. Za pomocą funkcji `.then()` wyświetl w konsoli zwrócony wynik.
-3. Przygotuj funkcję, która zwróci nowy obiekt typu Promise. Do tego Promise przekaz funkcje, która po 5 sekundach zwroci napis jezeli jest dluzszy niz 5 znakow. W przeciwnym wypadku zwroc informacje 'Napis jest za krotki'. Uzyj reject aby zwrocic ten napis.
+3. Przygotuj funkcję, która zwróci nowy obiekt typu Promise. Do tego Promise przekaz funkcje, która po 5 sekundach zwroci napis jezeli jest dluzszy niz 5 znakow. W przeciwnym wypadku zwroc informacje 'Napis jest za krotki'. Uzyj resolve/reject aby zwrocic ten napis.
 4. Za pomoca funkcji `.then()` obsluz pozytywne rozwiazanie Promise - wyswietl w consoli wynik jak i odrzucone rozwiazanie Promise - rowniez wypisz w konsoli wynik odrzuconej(rejected) Promise.
