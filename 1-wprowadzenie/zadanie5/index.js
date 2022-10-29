@@ -106,7 +106,7 @@ pustaTablica.pop();
 
 console.log(pustaTablica.length);
 
-console.log(pustaTablica.indexOf(1) !== -1);
+console.log(pustaTablica.indexOf(1) !== -1); // dlaczego musi się znaleźć ten zapis?
 console.log(pustaTablica.find(function(element) { return element === 1 }));
 
 console.log(pustaTablica.indexOf(1));
